@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Vrinda Store is in the process of developing a detailed annual sales report for the year 2022. This initiative is driven by the goal of gaining a deep understanding of customer needs, laying the foundation for targeted improvements and increased sales in 2023.
+Vrinda Store is in the process of developing a detailed annual sales report for the year 2023. This initiative is driven by the goal of gaining a deep understanding of customer needs, laying the foundation for targeted improvements and increased sales in 2024.
 
 ## What are the key objectives we aim to achieve?
 
@@ -15,7 +15,7 @@ Pinpoint the month exhibiting the highest sales and order activity for strategic
 Gender-Based Purchase Analysis :-
 Analyze and determine whether men or women made more significant purchases.
 
-Order Status Overview in 2022 :-
+Order Status Overview in 2023 :-
 Examine and categorize different order statuses prevalent throughout the year.
 
 Top Sales Contributing States :-
@@ -84,7 +84,7 @@ Amazon leads with 35%, followed by Myntra at 23%, and Flipkart at 22%.
 Kurta Dominance:
 Kurta for Women emerges as the highest-selling category, reflecting customer preferences
 
-# Recommendations to Enhance Sales Performance in 2023
+# Recommendations to Enhance Sales Performance in 2024
 
 Target female customers aged 30-50 residing in Maharashtra, Karnataka, and Uttar Pradesh. Boost engagement by offering exclusive coupons on renowned e-commerce platforms such as Amazon, Flipkart, and Myntra.
 
